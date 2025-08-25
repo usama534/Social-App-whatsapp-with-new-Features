@@ -1,0 +1,306 @@
+{
+  "monday": [
+    {
+      "courseMap": [
+        "ENG315",
+        "ENG401"
+      ],
+      "course": {
+        "_id": "ENG401",
+        "title": "TECHNICAL AND BUSINESS WRITING"
+      },
+      "venue": "Lab11",
+      "start_time": "8:30",
+      "end_time": "9:30",
+      "instructors": "Ihsan",
+      "_id": "67d4a3f8f275149a0fbe7017"
+    },
+    {
+      "courseMap": [
+        "CS636",
+        "CSC312"
+      ],
+      "course": {
+        "_id": "CSC312",
+        "title": "COMPILER CONSTRUCTION"
+      },
+      "venue": "Lt2",
+      "start_time": "2:00",
+      "end_time": "3:00",
+      "instructors": "Dr. Naseer",
+      "_id": "67d4a3f8f275149a0fbe7018"
+    },
+    {
+      "courseMap": [
+        "CS636",
+        "CSC312"
+      ],
+      "course": {
+        "_id": "CSC312",
+        "title": "COMPILER CONSTRUCTION"
+      },
+      "venue": "Lab7",
+      "start_time": "4:00",
+      "end_time": "5:00",
+      "instructors": "Dr. Naseer",
+      "_id": "67d4a3f8f275149a0fbe7019"
+    },
+    {
+      "courseMap": [
+        "CS400",
+        "CSC103"
+      ],
+      "course": {
+        "_id": "CSC103",
+        "title": "DATABASE SYSTEMS"
+      },
+      "venue": "Lt11",
+      "start_time": "9:30",
+      "end_time": "10:30",
+      "instructors": "Iqra",
+      "_id": "67d4a3f8f275149a0fbe715b"
+    },
+    {
+      "courseMap": [
+        "CS400",
+        "CSC103"
+      ],
+      "course": {
+        "_id": "CSC103",
+        "title": "DATABASE SYSTEMS"
+      },
+      "venue": "Lab4",
+      "start_time": "12:30",
+      "end_time": "1:30",
+      "instructors": "Iqra,Sadiqa",
+      "_id": "67d4a3f8f275149a0fbe715e"
+    },
+    {
+      "courseMap": [
+        "CS693"
+      ],
+      "course": {
+        "_id": "CS693",
+        "title": "MOBILE APPLICATION DEVELOPMENT"
+      },
+      "venue": "Lab9",
+      "start_time": "5:00",
+      "end_time": "6:00",
+      "instructors": "Jaweria",
+      "_id": "67d4a3f8f275149a0fbe724c"
+    }
+  ],
+  "tuesday": [
+    {
+      "courseMap": [
+        "CS400",
+        "CSC103"
+      ],
+      "course": {
+        "_id": "CSC103",
+        "title": "DATABASE SYSTEMS"
+      },
+      "venue": "Lt2",
+      "start_time": "8:30",
+      "end_time": "9:30",
+      "instructors": "Iqra",
+      "_id": "67d4a3f8f275149a0fbe7161"
+    }
+  ],
+  "wednesday": [
+    {
+      "courseMap": [
+        "ENG315",
+        "ENG401"
+      ],
+      "course": {
+        "_id": "ENG401",
+        "title": "TECHNICAL AND BUSINESS WRITING"
+      },
+      "venue": "Lt2",
+      "start_time": "9:30",
+      "end_time": "10:30",
+      "instructors": "Ihsan",
+      "_id": "67d4a3f8f275149a0fbe701a"
+    },
+    {
+      "courseMap": [
+        "CS693"
+      ],
+      "course": {
+        "_id": "CS693",
+        "title": "MOBILE APPLICATION DEVELOPMENT"
+      },
+      "venue": "Lab3",
+      "start_time": "4:00",
+      "end_time": "5:00",
+      "instructors": "Zahid",
+      "_id": "67d4a3f8f275149a0fbe724d"
+    },
+    {
+      "courseMap": [
+        "CS693"
+      ],
+      "course": {
+        "_id": "CS693",
+        "title": "MOBILE APPLICATION DEVELOPMENT"
+      },
+      "venue": "Lab3",
+      "start_time": "5:00",
+      "end_time": "6:00",
+      "instructors": "Zahid",
+      "_id": "67d4a3f8f275149a0fbe724e"
+    }
+  ],
+  "thursday": [
+    {
+      "courseMap": [
+        "ENG315",
+        "ENG401"
+      ],
+      "course": {
+        "_id": "ENG401",
+        "title": "TECHNICAL AND BUSINESS WRITING"
+      },
+      "venue": "Lab11",
+      "start_time": "8:30",
+      "end_time": "9:30",
+      "instructors": "Ihsan",
+      "_id": "67d4a3f8f275149a0fbe701b"
+    },
+    {
+      "courseMap": [
+        "CS636",
+        "CSC312"
+      ],
+      "course": {
+        "_id": "CSC312",
+        "title": "COMPILER CONSTRUCTION"
+      },
+      "venue": "Lab7",
+      "start_time": "9:30",
+      "end_time": "10:30",
+      "instructors": "Raheem",
+      "_id": "67d4a3f8f275149a0fbe701c"
+    },
+    {
+      "courseMap": [
+        "TOQ201"
+      ],
+      "course": {
+        "_id": "TOQ201",
+        "title": "TRANSLATION OF QURAN-III"
+      },
+      "venue": "Lt12",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "instructors": "Abdul Hameed",
+      "_id": "67d4a3f8f275149a0fbe701d"
+    },
+    {
+      "courseMap": [
+        "CS400",
+        "CSC103"
+      ],
+      "course": {
+        "_id": "CSC103",
+        "title": "DATABASE SYSTEMS"
+      },
+      "venue": "Lab2",
+      "start_time": "2:00",
+      "end_time": "3:00",
+      "instructors": "Sadiqa",
+      "_id": "67d4a3f8f275149a0fbe7168"
+    }
+  ],
+  "friday": [
+    {
+      "courseMap": [
+        "CS636",
+        "CSC312"
+      ],
+      "course": {
+        "_id": "CSC312",
+        "title": "COMPILER CONSTRUCTION"
+      },
+      "venue": "Lt7",
+      "start_time": "9:30",
+      "end_time": "10:30",
+      "instructors": "Dr. Naseer",
+      "_id": "67d4a3f8f275149a0fbe701e"
+    },
+    {
+      "courseMap": [
+        "CS636",
+        "CSC312"
+      ],
+      "course": {
+        "_id": "CSC312",
+        "title": "COMPILER CONSTRUCTION"
+      },
+      "venue": "Lab8",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "instructors": "Dr. Naseer,Raheem",
+      "_id": "67d4a3f8f275149a0fbe701f"
+    },
+    {
+      "courseMap": [
+        "CS400",
+        "CSC103"
+      ],
+      "course": {
+        "_id": "CSC103",
+        "title": "DATABASE SYSTEMS"
+      },
+      "venue": "Lt12",
+      "start_time": "9:30",
+      "end_time": "10:30",
+      "instructors": "Iqra",
+      "_id": "67d4a3f8f275149a0fbe716b"
+    },
+    {
+      "courseMap": [
+        "CS400",
+        "CSC103"
+      ],
+      "course": {
+        "_id": "CSC103",
+        "title": "DATABASE SYSTEMS"
+      },
+      "venue": "Lab8",
+      "start_time": "2:00",
+      "end_time": "3:00",
+      "instructors": "Sadiqa",
+      "_id": "67d4a3f8f275149a0fbe716f"
+    },
+    {
+      "courseMap": [
+        "CS693"
+      ],
+      "course": {
+        "_id": "CS693",
+        "title": "MOBILE APPLICATION DEVELOPMENT"
+      },
+      "venue": "Lab3",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "instructors": "Zahid",
+      "_id": "67d4a3f8f275149a0fbe724f"
+    },
+    {
+      "courseMap": [
+        "CS693"
+      ],
+      "course": {
+        "_id": "CS693",
+        "title": "MOBILE APPLICATION DEVELOPMENT"
+      },
+      "venue": "Lab3",
+      "start_time": "12:30",
+      "end_time": "1:30",
+      "instructors": "Zahid,Jaweria",
+      "_id": "67d4a3f8f275149a0fbe7250"
+    }
+  ]
+}

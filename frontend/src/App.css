@@ -1,0 +1,52 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Yeh pura container ko center mein karega */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  max-width: 450px; /* Mobile size fix */
+  min-height: 80vh;
+  margin: auto;
+  background-color: #34a87c;
+  border: 1px solid #ddd;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  padding-bottom: 60px; /* Navbar ke liye jagah */
+  overflow-y: auto; /* Allow scrolling only if needed */
+}
+
+/* Taake pura page center ho */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f1f1f1;
+}
+
+/* Mobile Responsive */
+@media screen and (max-width: 768px) {
+  .main-container {
+      max-width: 100%;
+      padding: 10px;
+  }
+}
+
+
+
